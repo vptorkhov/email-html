@@ -1,2 +1,2 @@
-< https://vptorkhov.github.io/email-html/public>
+< https://vptorkhov.github.io/email-html/public >
  
